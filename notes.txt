@@ -1,1 +1,1 @@
-http://learn.javascript.ru/variables
+http://learn.javascript.ru/uibasic
