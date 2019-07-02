@@ -1,1 +1,1 @@
-http://learn.javascript.ru/uibasic
+http://learn.javascript.ru
